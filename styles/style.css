@@ -444,18 +444,11 @@ margin: 45px 0px;
    height: 550px;
     width: 60%;
     margin: auto;
-    background: #000;
-    background-image: url("../Images/bg.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    /* background: #b1b1b1; */
-   
     border-radius: 40px;
     color: #FFF;
-    background: #5c5c5c00;
-    /* box-shadow: 0 0px 20px 0 rgb(168, 171, 167); */
-    border:1px solid rgb(205, 205, 205);
-    /* backdrop-filter: blur(12.5px); */
+    /* background: #5c5c5c00; */  
+    background: #b7a8a81b;
+    border:5px solid rgb(205, 205, 205);
     margin-top: 200px;
 }
 .get>h3{
@@ -465,7 +458,6 @@ margin: 45px 0px;
 }
 .in{
     padding:0px 40px;
-    /* margin:0 40px; */
 }
 
 .form-input{
@@ -476,7 +468,6 @@ margin: 45px 0px;
 }
 textarea{
     width: 90%;
-    /* padding:0px 0px; */
 }
 .in>p{
     font-size: 20px;
